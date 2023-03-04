@@ -1,0 +1,57 @@
+@import "./variables.module.scss";
+@import "./vars.module.scss";
+@font-face {
+	font-family: 'Shanghai_RUS';
+	src: url('../fonts/fonts/shanghai_rus.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/shanghai_rus.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+	url('../fonts/fonts/shanghai_rus.woff2') format('woff2'), /* Super Modern Browsers */
+	url('../fonts/fonts/shanghai_rus.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+	url('../fonts/fonts/shanghai_rus.ttf') format('truetype'), /* Safari, Android, iOS */
+	url('../fonts/fonts/shanghai_rus.svg#shanghai_rus') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+//@font-face {
+//	font-family: 'Steclo-ExtraLight';
+//	src: url('../fonts/fonts/steclo-extralight.eot'); /* IE 9 Compatibility Mode */
+//	src: url('../fonts/fonts/steclo-extralight.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+//	url('../fonts/fonts/steclo-extralight.woff2') format('woff2'), /* Super Modern Browsers */
+//	url('../fonts/fonts/steclo-extralight.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+//	url('../fonts/fonts/steclo-extralight.ttf') format('truetype'), /* Safari, Android, iOS */
+//	url('../fonts/fonts/steclo-extralight.svg#steclo-extralight') format('svg'); /* Chrome < 4, Legacy iOS */
+//}
+@font-face {
+	font-family: 'Laptev-Brush';
+	src: url('../fonts/fonts/laptev-brush.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/fonts/laptev-brush.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+	url('../fonts/fonts/laptev-brush.woff2') format('woff2'), /* Super Modern Browsers */
+	url('../fonts/fonts/laptev-brush.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+	url('../fonts/fonts/laptev-brush.ttf') format('truetype'), /* Safari, Android, iOS */
+	url('../fonts/fonts/laptev-brush.svg#laptev-brush') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+* {
+    margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	outline: none;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+a, a:hover, a:focus, a:active, a:visited {
+	text-decoration: none;
+	transition: $transition;
+}
+.wrapBackground {
+	//background-image: url();
+}
+.wrapper {
+	width: 100vw;
+	//padding: 0 14%;
+	text-align: center;
+    background-color: $dfckgroundApp;
+	.App {
+		//background-color: dimgray;
+		//font-family: 'Steclo-ExtraLight';
+		font-family: 'Laptev-Brush';
+
+	}
+}
+

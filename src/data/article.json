@@ -1,0 +1,151 @@
+{
+    "links": [
+      { "id": "1",
+        "name": "АКЦІЇ", "to": "home" },
+      { "id": "2",
+        "name": "ПРО НАС", "to": "accessories" },
+      { "id": "3",
+        "name": "ОПЛАТА ТА ДОСТАВКА", "to": "overview" },
+      { "id": "4",
+        "name": "КОНТАКТИ", "to": "presentation" }
+    ],
+  "icons": [
+    {
+      "link": "+1 (888) 777-77-77",
+      "address": "2637 Fairfax Ave Culver City, CA 90232",
+      "residence": "Segway  California © 2017"
+    }
+  ],
+    "rols": [
+      {
+        "id": "1",
+        "name": "Найбільша Філадельфія",
+        "imag": "https://drive.google.com/uc?id=175YZaHNC0XharirgVdjB-Rdf2z3cjXiZ",
+        "description": "Лосось, сир \"Філадельфія\", огірок, авокадо",
+        "weight": "270 грам",
+        "price": "299\nгрн"
+      },
+      {
+        "id": "2",
+        "name": "Найбільша Філадельфія",
+        "imag": "https://drive.google.com/uc?id=175YZaHNC0XharirgVdjB-Rdf2z3cjXiZ",
+        "description": "Лосось, сир \"Філадельфія\", огірок, авокадо",
+        "weight": "270 грам",
+        "price": "299\nгрн"
+      },
+      {
+        "id": "3",
+        "name": "Найбільша Філадельфія",
+        "imag": "https://drive.google.com/uc?id=175YZaHNC0XharirgVdjB-Rdf2z3cjXiZ",
+        "description": "Лосось, сир \"Філадельфія\", огірок, авокадо",
+        "weight": "270 грам",
+        "price": "299\nгрн"
+      },
+      {
+        "id": "4",
+        "name": "Найбільша Філадельфія",
+        "imag": "https://drive.google.com/uc?id=175YZaHNC0XharirgVdjB-Rdf2z3cjXiZ",
+        "description": "Лосось, сир \"Філадельфія\", огірок, авокадо",
+        "weight": "270 грам",
+        "price": "299\nгрн"
+      },
+      {
+        "id": "5",
+        "name": "Найбільша Філадельфія",
+        "imag": "https://drive.google.com/uc?id=175YZaHNC0XharirgVdjB-Rdf2z3cjXiZ",
+        "description": "Лосось, сир \"Філадельфія\", огірок, авокадо",
+        "weight": "270 грам",
+        "price": "299\nгрн"
+      },
+      {
+        "id": "6",
+        "name": "Найбільша Філадельфія",
+        "imag": "https://drive.google.com/uc?id=175YZaHNC0XharirgVdjB-Rdf2z3cjXiZ",
+        "description": "Лосось, сир \"Філадельфія\", огірок, авокадо",
+        "weight": "270 грам",
+        "price": "299\nгрн"
+      },
+      {
+        "id": "7",
+        "name": "Найбільша Філадельфія",
+        "imag": "https://drive.google.com/uc?id=175YZaHNC0XharirgVdjB-Rdf2z3cjXiZ",
+        "description": "Лосось, сир \"Філадельфія\", огірок, авокадо",
+        "weight": "270 грам",
+        "price": "299\nгрн"
+      },
+      {
+        "id": "8",
+        "name": "Найбільша Філадельфія",
+        "imag": "https://drive.google.com/uc?id=175YZaHNC0XharirgVdjB-Rdf2z3cjXiZ",
+        "description": "Лосось, сир \"Філадельфія\", огірок, авокадо",
+        "weight": "270 грам",
+        "price": "299\nгрн"
+      }
+    ],
+  "sets": [
+    {
+      "id": "1",
+      "name": "Салмон сет",
+      "imag": "https://drive.google.com/uc?id=1maUEmcSn0XSbiUvcuCXUkqGnKQMLux9d",
+      "description": "Суші з лососем, Найбільша Філадельфія, Філадельфія сяке",
+      "weight": "1050 грам",
+      "price": "1199\nгрн"
+    },
+    {
+      "id": "2",
+      "name": "Салмон сет",
+      "imag": "https://drive.google.com/uc?id=1maUEmcSn0XSbiUvcuCXUkqGnKQMLux9d",
+      "description": "Суші з лососем, Найбільша Філадельфія, Філадельфія сяке",
+      "weight": "1050 грам",
+      "price": "1199\nгрн"
+    },
+    {
+      "id": "3",
+      "name": "Салмон сет",
+      "imag": "https://drive.google.com/uc?id=1maUEmcSn0XSbiUvcuCXUkqGnKQMLux9d",
+      "description": "Суші з лососем, Найбільша Філадельфія, Філадельфія сяке",
+      "weight": "1050 грам",
+      "price": "1199\nгрн"
+    },
+    {
+      "id": "4",
+      "name": "Салмон сет",
+      "imag": "https://drive.google.com/uc?id=1maUEmcSn0XSbiUvcuCXUkqGnKQMLux9d",
+      "description": "Суші з лососем, Найбільша Філадельфія, Філадельфія сяке",
+      "weight": "1050 грам",
+      "price": "1199\nгрн"
+    },
+    {
+      "id": "5",
+      "name": "Салмон сет",
+      "imag": "https://drive.google.com/uc?id=1maUEmcSn0XSbiUvcuCXUkqGnKQMLux9d",
+      "description": "Суші з лососем, Найбільша Філадельфія, Філадельфія сяке",
+      "weight": "1050 грам",
+      "price": "1199\nгрн"
+    },
+    {
+      "id": "6",
+      "name": "Салмон сет",
+      "imag": "https://drive.google.com/uc?id=1maUEmcSn0XSbiUvcuCXUkqGnKQMLux9d",
+      "description": "Суші з лососем, Найбільша Філадельфія, Філадельфія сяке",
+      "weight": "1050 грам",
+      "price": "1199\nгрн"
+    },
+    {
+      "id": "7",
+      "name": "Салмон сет",
+      "imag": "https://drive.google.com/uc?id=1maUEmcSn0XSbiUvcuCXUkqGnKQMLux9d",
+      "description": "Суші з лососем, Найбільша Філадельфія, Філадельфія сяке",
+      "weight": "1050 грам",
+      "price": "1199\nгрн"
+    },
+    {
+      "id": "8",
+      "name": "Салмон сет",
+      "imag": "https://drive.google.com/uc?id=1maUEmcSn0XSbiUvcuCXUkqGnKQMLux9d",
+      "description": "Суші з лососем, Найбільша Філадельфія, Філадельфія сяке",
+      "weight": "1050 грам",
+      "price": "1199\nгрн"
+    }
+  ]
+}

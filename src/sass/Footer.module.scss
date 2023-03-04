@@ -1,0 +1,32 @@
+@import "./variables.module.scss";
+
+.footer {
+  display: flex;
+  padding: 1.5% 14%;
+  height: 200px;
+  align-items: end;
+  text-align: right;
+  //background-image: url("https://drive.google.com/uc?id=1a5dOINItGToWi1bF2doFJUbGu1afSWry");
+  //background-image: url("https://drive.google.com/uc?id=1_ebxCnBYvyYl2GXM6phRRj0rEBt8X0BU");
+  background-image: url("https://drive.google.com/uc?id=1a5dOINItGToWi1bF2doFJUbGu1afSWry"), linear-gradient($dfckgroundApp 20%, cadetblue 80%);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 85% 50%;
+  .logo {
+    width: 120px;
+  }
+  p {
+    font-size: 25px;
+  }
+  nav {
+    margin-bottom: 5px;
+    a {
+      color: black;
+    }
+  }
+}
+
+.phone {
+  width: 30px;
+  margin-bottom: -8px;
+}

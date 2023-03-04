@@ -1,0 +1,59 @@
+@import "./variables.module.scss";
+.main {
+    //background-color: cadetblue;
+    color: cadetblue;
+    background-color: $dfckgroundApp;
+    padding: 0 14%;
+    .menu_wrapper {
+        padding-top: 30px;
+        h3{
+            font-size: 40px;
+            text-shadow: 1px 3px 4px #000000;
+            margin: 20px 0 30px;
+        }
+        h4{
+            font-size: 20px;
+            text-shadow: 1px 3px 4px #000000;
+        }
+        span {
+            text-shadow: 1px 3px 4px #000000;
+        }
+        button {
+            margin-top: 10px;
+            width: 135px;
+            height: 30px;
+            border-radius: 5px;
+            background-color: cadetblue;
+            border: none;
+            font-weight: 600;
+            //box-shadow: 0px 3px 9px #000000;
+
+        }
+    }
+    .roll_box{
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(2, 320px);
+        row-gap: 40px;
+        grid-template-areas:
+            "icon-1 icon-2 icon-3 icon-4"
+            "icon-5 icon-6 icon-7 icon-8";
+        :nth-child(1){
+            grid-area: icon-1;
+        }
+        :nth-child(2){
+            grid-area: icon-2;
+        }
+        :nth-child(3){
+            grid-area: icon-3;
+        }
+        :nth-child(4){
+            grid-area: icon-4;
+        }
+        .menu_content {
+            img {
+                width: 200px;
+            }
+        }
+    }
+}

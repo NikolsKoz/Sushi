@@ -1,0 +1,118 @@
+@import "./variables.module.scss";
+.header {
+    //background-color: dimgray;
+    background-color: cadetblue;
+    padding: 0 14%;
+    a {
+        text-decoration: none;
+        color: #000;
+    }
+    .navbar {
+        width: 100%;
+        left: 0;
+        padding: 0 14%;
+        position: fixed;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background-image: linear-gradient(cadetblue 65%, rgba(95,158, 160, 0) 100%);
+        .logo {
+            width: 120px;
+            height: 120px;
+        }
+        .basket {
+            img{
+                height: 100px;
+                width: 100px;
+            }
+        }
+        //.nav {
+        //    //width: 500px;
+        //    //display: flex;
+        //    //flex-wrap: nowrap;
+        //    //justify-content: space-between;
+        //    a {
+        //        margin: 0 50px;
+        //    }
+        //}
+        .nav_basket {
+            width: 400px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 14px;
+            font-family: cursive;
+            .contact {
+                img {
+                    width: 30px;
+                    margin-bottom: -8px;
+                }
+            }
+        }
+    }
+    .navbar_bg {
+        height: 120px;
+    }
+    .hedContent {
+        background-size: contain;
+        height: 500px;
+        text-align: left;
+        padding: 0 0 10% 5%;
+        background-image: url("https://drive.google.com/uc?id=1sTBgGOqChok173SmegTMFPFq5H3oejXH");
+        background-repeat: no-repeat;
+        background-position: 95% 50%;
+        display: flex;
+        align-items: flex-end;
+        //color: $dfckgroundApp;
+        color: #d50a0a;
+        //text-shadow: 1px 1px 2px $dfckgroundApp;
+        text-shadow: 1px 1px 2px black;
+        .headText {
+            font-family: 'Shanghai_RUS';
+            :nth-child(1) {
+                font-size: 40px;
+            }
+            :nth-child(2) {
+                font-size: 70px;
+            }
+        }
+
+    }
+}
+.social {
+    display: flex;
+    justify-content: center;
+    width: 2vw;
+    flex-wrap: wrap;
+    position: fixed;
+    right: 20px;
+    top: 140px;
+    :nth-child(1){
+                img{
+                    width: 1.7vw;
+                }
+            }
+            a{
+                cursor: grab;
+                img {
+                    width: 2vw;
+                    margin-top: 1vh;
+                }
+            }
+    //nav{
+    //    :nth-child(1){
+    //        img{
+    //            width: 1.7vw;
+    //        }
+    //    }
+    //    a{
+    //        cursor: grab;
+    //        img {
+    //            width: 2vw;
+    //            margin-top: 1vh;
+    //        }
+    //    }
+    //}
+}
+
