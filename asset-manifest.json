@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/Sushi/static/css/main.f0878973.css",
-    "main.js": "/Sushi/static/js/main.738644d3.js",
+    "main.css": "/Sushi/static/css/main.f5c43af0.css",
+    "main.js": "/Sushi/static/js/main.15f6d02a.js",
+    "static/media/laptev-brush.svg": "/Sushi/static/media/laptev-brush.57aa1aabf0b9613c50cd.svg",
     "static/media/shanghai_rus.svg": "/Sushi/static/media/shanghai_rus.1dd44b6a5ddbcb9bad74.svg",
     "static/media/5.png": "/Sushi/static/media/5.911652d6eddf05e74189.png",
     "static/media/1.png": "/Sushi/static/media/1.f4cbfd60c821a2010da4.png",
     "static/media/basket.png": "/Sushi/static/media/basket.31fe6e57250834b37971.png",
     "static/media/shanghai_rus.ttf": "/Sushi/static/media/shanghai_rus.23165f62f363f9dcd71e.ttf",
+    "static/media/laptev-brush.ttf": "/Sushi/static/media/laptev-brush.f3be290f7ef052e7c1f7.ttf",
+    "static/media/laptev-brush.woff2": "/Sushi/static/media/laptev-brush.285a08055152bff32628.woff2",
     "static/media/logo1.png": "/Sushi/static/media/logo1.9aee8baedfbcdb105648.png",
     "static/media/shanghai_rus.woff2": "/Sushi/static/media/shanghai_rus.b4fdd0603761c7cca1da.woff2",
     "index.html": "/Sushi/index.html",
+    "static/media/laptev-brush.eot": "/Sushi/static/media/laptev-brush.31d6cfe0d16ae931b73c.eot",
+    "static/media/laptev-brush.woff": "/Sushi/static/media/laptev-brush.31d6cfe0d16ae931b73c.woff",
     "static/media/shanghai_rus.eot": "/Sushi/static/media/shanghai_rus.31d6cfe0d16ae931b73c.eot",
     "static/media/shanghai_rus.woff": "/Sushi/static/media/shanghai_rus.31d6cfe0d16ae931b73c.woff",
-    "main.f0878973.css.map": "/Sushi/static/css/main.f0878973.css.map",
-    "main.738644d3.js.map": "/Sushi/static/js/main.738644d3.js.map"
+    "main.f5c43af0.css.map": "/Sushi/static/css/main.f5c43af0.css.map",
+    "main.15f6d02a.js.map": "/Sushi/static/js/main.15f6d02a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0878973.css",
-    "static/js/main.738644d3.js"
+    "static/css/main.f5c43af0.css",
+    "static/js/main.15f6d02a.js"
   ]
 }
